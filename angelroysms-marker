@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Angel Roy Banner" width="100%" />
+<Angel Chatgpt Profiles 2.png>
 
 # Hi, I'm Angel Roy 👋
 
